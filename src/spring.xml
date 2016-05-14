@@ -9,7 +9,7 @@
 <!-- <property name="type" value="Equilateral">
 </property>
  -->
- <constructor-arg type="int" value="20"></constructor-arg>
+ <constructor-arg type="int" value=""></constructor-arg>
 </bean>
 
 </beans>
